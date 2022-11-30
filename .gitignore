@@ -1,2 +1,4 @@
 .idea
-inside_files/*
+inside_files/*.txt
+inside_files/*.pdf
+inside_files/*.mp3
